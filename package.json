@@ -2,10 +2,10 @@
   "name": "com.morocutti.woopsa-for-unity",
   "displayName": "Woopsa for Unity",
   "description": "Woopsa is a simple free open-source protocol to publish-subscribe objects. This is a non-official version adapted for Unity.",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "unity": "2019.4",
   "author": {
-    "name": "Morocutti Dylan",
+    "name": "Morocutti",
     "email": "dylan.morocutti@heig-vd.ch",
     "url": "http://iai.heig-vd.ch/"
   },

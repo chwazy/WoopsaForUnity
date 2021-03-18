@@ -4,5 +4,9 @@
 # Why ?
 The main goal of these modifications was to use this protocol within Unity to target UWP platforms.
 
-## Version
+# Usage
+To add this package to a Unity project, in the package manager add a new package from a Git Url and paste the following link :
+> https://github.com/chwazy/WoopsaForUnity.git
+
+# Version
 Curren version : V1.2.0
